@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 class HeaderLink extends Component {
 
-    render () {
+    render() {
         return (
             <Link to="/">
                 <title className="filmSearchTitle">

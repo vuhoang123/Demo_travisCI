@@ -5,7 +5,7 @@ exports[`Footer matches snapshot 1`] = `
   className="footerStyle"
 >
   <span>
-    filmSearch ⓒ 2019 built with
+    filmSearch ⓒ 2022 built with
   </span>
   <img
     alt=""
