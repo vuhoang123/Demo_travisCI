@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/filmsearch/static/css/main.bf425488.chunk.css",
+    "main.js": "/filmsearch/static/js/main.6076e601.chunk.js",
+    "main.js.map": "/filmsearch/static/js/main.6076e601.chunk.js.map",
+    "runtime~main.js": "/filmsearch/static/js/runtime~main.b205925a.js",
+    "runtime~main.js.map": "/filmsearch/static/js/runtime~main.b205925a.js.map",
+    "static/css/2.9a1c8359.chunk.css": "/filmsearch/static/css/2.9a1c8359.chunk.css",
+    "static/js/2.45b29d57.chunk.js": "/filmsearch/static/js/2.45b29d57.chunk.js",
+    "static/js/2.45b29d57.chunk.js.map": "/filmsearch/static/js/2.45b29d57.chunk.js.map",
+    "index.html": "/filmsearch/index.html",
+    "precache-manifest.ae7e95dec2ae5f23d7da644d284037d2.js": "/filmsearch/precache-manifest.ae7e95dec2ae5f23d7da644d284037d2.js",
+    "service-worker.js": "/filmsearch/service-worker.js",
+    "static/css/2.9a1c8359.chunk.css.map": "/filmsearch/static/css/2.9a1c8359.chunk.css.map",
+    "static/css/main.bf425488.chunk.css.map": "/filmsearch/static/css/main.bf425488.chunk.css.map",
+    "static/media/index.css": "/filmsearch/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  }
+}
