@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/filmsearch/static/css/main.bf425488.chunk.css",
-    "main.js": "/filmsearch/static/js/main.8fa25608.chunk.js",
-    "main.js.map": "/filmsearch/static/js/main.8fa25608.chunk.js.map",
-    "runtime~main.js": "/filmsearch/static/js/runtime~main.b205925a.js",
-    "runtime~main.js.map": "/filmsearch/static/js/runtime~main.b205925a.js.map",
-    "static/css/2.9a1c8359.chunk.css": "/filmsearch/static/css/2.9a1c8359.chunk.css",
-    "static/js/2.45b29d57.chunk.js": "/filmsearch/static/js/2.45b29d57.chunk.js",
-    "static/js/2.45b29d57.chunk.js.map": "/filmsearch/static/js/2.45b29d57.chunk.js.map",
-    "index.html": "/filmsearch/index.html",
-    "precache-manifest.73946199a915176434dd62311d602584.js": "/filmsearch/precache-manifest.73946199a915176434dd62311d602584.js",
-    "service-worker.js": "/filmsearch/service-worker.js",
-    "static/css/2.9a1c8359.chunk.css.map": "/filmsearch/static/css/2.9a1c8359.chunk.css.map",
-    "static/css/main.bf425488.chunk.css.map": "/filmsearch/static/css/main.bf425488.chunk.css.map",
-    "static/media/index.css": "/filmsearch/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/Demo_travisCI/static/css/main.bf425488.chunk.css",
+    "main.js": "/Demo_travisCI/static/js/main.d0aee16c.chunk.js",
+    "main.js.map": "/Demo_travisCI/static/js/main.d0aee16c.chunk.js.map",
+    "runtime~main.js": "/Demo_travisCI/static/js/runtime~main.66327b9a.js",
+    "runtime~main.js.map": "/Demo_travisCI/static/js/runtime~main.66327b9a.js.map",
+    "static/css/2.6570c011.chunk.css": "/Demo_travisCI/static/css/2.6570c011.chunk.css",
+    "static/js/2.45b29d57.chunk.js": "/Demo_travisCI/static/js/2.45b29d57.chunk.js",
+    "static/js/2.45b29d57.chunk.js.map": "/Demo_travisCI/static/js/2.45b29d57.chunk.js.map",
+    "index.html": "/Demo_travisCI/index.html",
+    "precache-manifest.6cfc03950a2c2eedeb4be8c1d5bdd6de.js": "/Demo_travisCI/precache-manifest.6cfc03950a2c2eedeb4be8c1d5bdd6de.js",
+    "service-worker.js": "/Demo_travisCI/service-worker.js",
+    "static/css/2.6570c011.chunk.css.map": "/Demo_travisCI/static/css/2.6570c011.chunk.css.map",
+    "static/css/main.bf425488.chunk.css.map": "/Demo_travisCI/static/css/main.bf425488.chunk.css.map",
+    "static/media/index.css": "/Demo_travisCI/static/media/roboto-latin-900italic.ebf6d164.woff2"
   }
 }
