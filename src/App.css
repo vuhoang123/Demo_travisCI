@@ -1,0 +1,203 @@
+.blackBackground {
+  background-color: black;
+  min-height: 300px;
+}
+.pictureStyle {
+  margin: 0px auto;
+  background-image: url('/public/headerBG.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 80%;
+  min-height: 300px;
+}  
+.filmSearchTitle {
+  display: inline-block;
+  margin: 20px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: #EB5757;
+}
+.findYourMovie {
+  margin: 25px 0 0 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  color: #F5F5F5;
+}
+.searchByDiv {
+  vertical-align: middle;
+  color: #F2F2F2;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+}
+.resultsInfoStyle {
+  min-height: 60px;
+  line-height: 60px;
+  background-color: #E0E0E0;
+  font-weight: bold;
+  font-size: 20px;
+}
+.resultsInfoWidth {
+  margin: 0px auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.moviesFoundStyle {
+  font-weight: bold;
+  font-size: 20px;
+}
+.sortByStyle {
+  display: inline-block;
+}
+.sortByLabelStyle {
+  margin-right: 30px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 20px;
+}
+.inlineStyle {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 20px;
+}
+.disabledStyle {
+  color: #828282;
+  cursor: pointer; 
+}
+.enabledStyle {
+  color: #EB5757;
+}
+.noMoviesStyle {
+  min-height: 38px;
+  text-align: center;
+}
+.resultsStyle {
+  margin: 20px auto;
+  width: 90%;
+}
+.resultItemStyle {
+  padding: 10px 75px;
+  text-align: center;
+  width: 420px;
+  display: inline-block;
+  vertical-align: top;
+}
+.movieTextStyle {
+  text-align: left;
+}
+.movieFlexStyle {
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.movieTitleStyle {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+}
+.movieYearStyle {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 0px;
+  border: 1px solid black;
+  font-weight: bold;
+  max-height: 25px;
+}
+.movieGenreStyle {
+  text-align: left;
+}
+.paginationStyle {
+  padding: 10px 0;
+  font-weight: bold;
+  text-align: center;
+}
+.detailsBlackBackground {
+  background-color: black;
+  min-height: 540px;
+}
+.detailsPictureStyle {
+  margin: 0px auto;
+  background-image: url('/public/detailsBG.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 80%;
+}
+.backToSearchButton {
+  margin: 20px 0 !important;
+  float: right !important;
+  text-decoration: none !important;
+  color: #EB5757 !important;
+  background-color: #F5F5F5 !important;
+  border: none !important;
+  padding: 3px 30px !important;
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
+.movieContent {
+  width: 100%;
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+.movieContentImg {
+  display: inline-block;
+}
+.movieContentInfo {
+  width: 600px;
+  margin-left: 60px;
+  vertical-align: top;
+  display: inline-block;
+}
+.titleAndRating {
+  display: flex;
+  align-items: center;
+}
+.movieTitleHeader {
+  margin: 18px 0px;
+  font-size: 38px;
+  font-weight: bold;
+  color: #EB5757;
+}
+.ratingStyle {
+  margin-left: 20px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 24px;
+  font-weight: bold;
+  height: 60px;
+  width: 60px;
+  line-height: 55px;
+  border: 4px solid rgba(111, 207, 151, 0.55);
+  border-radius: 50%;
+  color: #6FCF97;
+}
+.yearAndLength {
+  margin: 0px;
+  font-weight: bold;
+  font-size: 28px;
+}
+.descStyle {
+  margin: 10px 0;
+  font-weight: normal;
+  font-size: 20px;
+}
+.directorAndCast {
+  font-size: 16px;
+  color: #828282;
+}
+.footerStyle {
+  margin-top: auto;
+  min-height: 80px;
+  line-height: 80px;
+  color: #EB5757;
+  background-color: #121212;
+  text-align: center;
+}
+.tmdbStyle {
+  margin-left: 10px;
+  height: 25px;
+  vertical-align: middle;
+}
